@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\ProjectB\Publish\ProjectB.exe
+C:\Users\Administrator\Documents\ProjectB\Publish\ProjectB.dll
+C:\Users\Administrator\Documents\ProjectB\Publish\ProjectB.deps.json
+C:\Users\Administrator\Documents\ProjectB\Publish\ProjectB.runtimeconfig.json
+C:\Users\Administrator\Documents\ProjectB\Publish\ProjectB.pdb
